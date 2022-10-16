@@ -19,4 +19,4 @@ _Creacion de una apliacion para una Clinica Dental que pueda hacer diversas func
 ## Enlaces de interés 
 
 * [Tablero en Trello] https://trello.com/b/Xl7atr7P/clinicadental
-* [MockUps (Balsamiq)] https://balsamiq.cloud/s820f4t/pxtvwqt
+
