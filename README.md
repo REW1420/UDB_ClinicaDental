@@ -15,7 +15,8 @@ _Creacion de una apliacion para una Clinica Dental que pueda hacer diversas func
 * **Kenya Elizabeth Parada Palma** - **Programación, diseño, lógica y manuales**
 
 ## Licencia 
-
+Licencia Creative Commons
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
 ## Enlaces de interés 
 
 * [Tablero en Trello] https://trello.com/b/Xl7atr7P/clinicadental
