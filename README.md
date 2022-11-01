@@ -11,7 +11,7 @@ _Creacion de una apliacion para una Clinica Dental que pueda hacer diversas func
 
 * **William Ernesto Ramos Valladares - RV200068** - **Programación, diseño, lógica y manuales**
 * **Javier Eliseo Gutiérrez Flores** - **Programación, diseño, lógica y manuales**
-* **Carlos Eduardo Siliezar Colocho** - **Programación, diseño, lógica y manuales**
+* **Carlos Eduardo Siliezar Colocho - SC202203 - **Programación, diseño, lógica y manuales**
 * **Kenya Elizabeth Parada Palma** - **Programación, diseño, lógica y manuales**
 
 ## Licencia 
